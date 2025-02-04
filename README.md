@@ -1,0 +1,1 @@
+This example demonstrates the Constraint_Error that can occur in Ada when assigning a value outside the defined range of a subtype.  The solution shows how to handle this error using exception handling.
